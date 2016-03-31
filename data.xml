@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="f" value="12" />
+    <long name="fff" value="12" />
+    <boolean name="married" value="false" />
+    <boolean name="m" value="true" />
+    <string name="name">olly</string>
+    <int name="age" value="18" />
+</map>
